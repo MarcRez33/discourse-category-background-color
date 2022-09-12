@@ -6,6 +6,6 @@
   left: 0;
   top: 0;
   background-color: var(--category-color);
-  opacity: 0.2;
+  opacity: #{$opacity};
   z-index: -1;
 }
