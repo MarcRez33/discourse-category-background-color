@@ -1,0 +1,4 @@
+opacity:
+  default: "0.1"
+  description:
+    en: "Set the category background opacity."
