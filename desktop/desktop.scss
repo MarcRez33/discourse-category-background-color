@@ -17,6 +17,7 @@
             top: 0;
             background-color: var(--category-color);
             opacity: 0.2;
+            z-index: -1;
           }
         }
       }
@@ -37,6 +38,7 @@
         top: 0;
         background-color: var(--category-color);
         opacity: 0.2;
+        z-index: -1;
       }
     }
   }
